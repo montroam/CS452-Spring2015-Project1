@@ -1,8 +1,8 @@
 
 /**
-		 Allison Montroy
-		 CS 452 || Lab 2
-			02/17/15
+		 Allison Montroy & Sarah Selby
+		 CS 452 || Project 1
+
 **/
 	
 var cx = 0;
