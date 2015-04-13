@@ -1,3 +1,11 @@
-name, date, description
+Allison Montroy and Sarah Selby
+Project 1
 
-be sure to include complete details of how to interact with your game, the scoring system, and how to win
+The game is essentially a vertical scrolling game. The premise behind the game is that you are in the
+ocean: you fall from the surface and try to reach the bottom without hitting any of the fish (which are
+currently just a bunch of boxes). The point is to make it to the bottom without dying. 
+You can move the player within a set of bounded area within the screen. You have three lives, and a life 
+is lost when you hit an enemy. Your score is equivalent to your "depth" as well as an extra 300 points per
+life you win the game with. 
+
+CONTROLS: W A S D
